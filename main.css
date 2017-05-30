@@ -236,7 +236,6 @@ header {
 }
 
 .footer-three{
-    margin-top: 43px;
     text-align: center;
 }
 
@@ -466,4 +465,8 @@ input[type=submit] {
 .close-modal-login {
     padding-left: 220px;
     text-decoration: none;
+}
+
+.jamesandjack-logo {
+    padding-top: 20px;
 }

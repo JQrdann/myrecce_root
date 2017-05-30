@@ -142,7 +142,7 @@
             </div>
 
             <div class="footer-three footer-element">
-                <h5>Terms & Conditions</h5>
+                <a target="_blank" href="http://www.facebook.com/myrecce"><img class='jamesandjack-logo' src="images/logoconcept.png" alt="James & Jack Films" style="width:155px;height:60px;"></a>
             </div>
         </div>
     </body>
