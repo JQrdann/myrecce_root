@@ -29,7 +29,7 @@
 
                     <input type="password" required name="password" placeholder="Password"><br>
 
-                    <a class="register-text register-change" href="#">Register</a>
+                    <a class="register-text register-change" href="#">Sign up</a>
 
                     <input type="submit" name="submit" value="Go go go!">
                 </form>
@@ -39,28 +39,18 @@
                     <h2 class="signup-text">Sign Up</h2>
                     <br>
 
-                    <h5 class="signupchat">Pick a fabulous username!</h5>
-                    <input type="username" name="username" required placeholder="Username"><br>
-
                     <h5 class="signupchat">What's your electronic mail address?</h5>
                     <input type="email" name="email" required placeholder="Email"><br>
 
                     <h5 class="signupchat">My first name is James. What's yours?</h5>
                     <input type="firstName" name="firstName" required placeholder="First Name"><br>
 
-                    <h5 class="signupchat">My surname is Bond, I told you my first name, Bond.</h5>
-                    <input type="lastName" name="lastName" required placeholder="Last Name"><br>
-
                     <h5 class="signupchat">Pick a password. Don't tell anyone, ovbs!</h5>
                     <input type="password" name="password" required placeholder="Password"><br>
 
-                    <h4 class="signupchat">Are you a Creator or Location?</h4>
-                    <input type="radio" name="usertype" value="Creator">Creator<br>
-                    <input type="radio" name="usertype" value="Location">Location<br>
-
                     <a class="login-text login-change" href="#">Login</a>
 
-                    <input type="submit" name="submit" value="Sign Up">
+                    <input type="submit" name="submit" value="Sign up">
                 </form>
 
             </div>
@@ -90,9 +80,9 @@
         <!-- SECTION SEPERATOR -->
 
         <div class="section-two">
-            <h1 class="two-title">Say Goodbye to location scouting!</h1>
+            <h1 class="two-title">Say Hello to your favourite location scout!</h1>
             <h3 class="two-desc">MyRecce is your best pal' when it comes to finding that badass location.</h3>
-            <h3 class="two-desc2">We’re a couple of chaps who sat down one day and decided it’d be a great idea to eliminate the nightmare that is location scouting.</h3>
+            <h3 class="two-desc2">We’re a couple of chaps who sat down one day and decided it’d be a great idea to aid the nightmare that is location scouting.</h3>
         </div>
 
         <!-- SECTION SEPERATOR -->
@@ -138,7 +128,7 @@
             </div>
 
             <div class="footer-two footer-element">
-                <h5>Copyright MyRecce © 2016</h5>
+                <h5>Copyright MyRecce © 2017</h5>
             </div>
 
             <div class="footer-three footer-element">
