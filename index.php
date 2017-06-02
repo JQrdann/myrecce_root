@@ -57,11 +57,15 @@
         </div>
 
         <div class="section-one">
-          <div class="background-london">
-              <img class='london' src="images/london.jpg" alt="London">
+          <div class="main-background">
+          </div>
+
+          <div class="mapdiv">
+               <a href='#'><img class='ukmap' src="images/map.png" alt="ukmap"></a>
           </div>
 
           <div class="main-title">
+              <h1>WE HAVE SETUP SHOP, IN THE UK!</h1>
               <a href='#'><img class='logo' src="images/myrecce.png" alt="MyRecce-Logo"></a>
 
             <div class="main-buttons">
