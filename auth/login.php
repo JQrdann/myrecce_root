@@ -14,7 +14,7 @@
             $_SESSION['username'] = $row['Username'];
             $_SESSION['firstName'] = $row['FirstName'];
 
-            header('Location: ../../myrecce_portal/home.php');
+            header('Location: ../../portal/home.php');
         }else{
             header('Location: ../index.php');
         }
