@@ -478,3 +478,93 @@ input[type=submit] {
 .jamesandjack-logo {
     padding-top: 20px;
 }
+
+
+
+/* -------------------- NEW INDEX2.PHP CSS -------------------- */
+
+ul {
+    list-style-type: none;
+}
+
+.sidebar {
+    position: fixed;
+    background-color: #34495E;
+    width: 20%;
+    height: 100%;
+    z-index: 1;
+    padding-top: 20%;
+}
+
+.items {
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.items:hover {
+    color: green;
+}
+
+.button {
+    background-color: #2ecd70;
+    border: none;
+    color: white;
+    padding: 15px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 4px;
+    -webkit-transition-duration: 0.2s;
+    transition-duration: 0.4s;
+    width: 70px;
+}
+
+.button:hover {
+    background-color: white;
+    color: #2ecd70;
+    text-decoration: none;
+}
+
+.welcomesec {
+    background-color: #00B16A;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+
+.welcomesec h1 {
+    color: white;
+    text-align: center;
+    padding-top: 300px;
+    font-size: 100px;
+}
+
+.whatsec {
+    background-color: #2574A9;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+
+.whatsec h1 {
+    color: white;
+    text-align: center;
+    padding-top: 300px;
+    font-size: 100px;
+}
+
+.contactsec {
+    background-color: #2C3E50;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+
+.contactsec h1 {
+    color: white;
+    text-align: center;
+    padding-top: 300px;
+    font-size: 100px;
+}
