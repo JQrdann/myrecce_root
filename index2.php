@@ -13,15 +13,19 @@
     <body>
         <section id="side">
             <div class="sidebar">
-                <nav>
-                    <ul>
-                        <li><a href="#welcome" class="items">WELCOME</a></li><br>
-                        <li><a href="#what" class="items">WHAT IS MYRECCE</a></li><br>
-                        <li><a href="#contact" class="items">GET IN TOUCH</a></li><br>
-                        <li><a href='#' class="button login-button">LOG IN</a>
-                        <a href='#' class="button register-button">SIGN UP</a></li>
-                    </ul>
-                </nav>
+                <div class="sidebar-items">
+                    <nav>
+                        <ul>
+                            <li><a href="#welcome" class="items">WELCOME</a></li><br>
+                            <li><a href="#what" class="items">WHAT IS MYRECCE</a></li><br>
+                            <li><a href="#contact" class="items">GET IN TOUCH</a></li><br>
+                        </ul>
+                    </nav>
+                </div>
+                <div class="sidebar-buttons">
+                    <a href='#' class="button login-button">LOG IN</a>
+                    <a href='#' class="button register-button">SIGN UP</a>
+                </div>
             </div>
         </section>
 
