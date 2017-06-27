@@ -497,19 +497,19 @@ input[type=submit] {
 }
 
 .sidebar-items {
-    padding-top: 300px;
+    padding-top: 400px;
     text-align: right;
     padding-right: 50px;
 }
 
 .items {
-    color: white;
+    color: lightgray;
     text-decoration: none;
     font-size: 20px;
 }
 
 .items:hover {
-    color: green;
+    color: white;
 }
 
 .sidebar-buttons {
@@ -549,8 +549,14 @@ input[type=submit] {
 .welcomesec h1 {
     color: white;
     text-align: center;
-    padding-top: 300px;
+    padding-top: 400px;
     font-size: 100px;
+}
+
+.welcomesec p {
+    color: white;
+    text-align: center;
+    padding-top: 10px;
 }
 
 .whatsec {

@@ -16,9 +16,9 @@
                 <div class="sidebar-items">
                     <nav>
                         <ul>
-                            <li><a href="#welcome" class="items">WELCOME</a></li><br>
-                            <li><a href="#what" class="items">WHAT IS MYRECCE</a></li><br>
-                            <li><a href="#contact" class="items">GET IN TOUCH</a></li><br>
+                            <li><a href="#welcome" class="items">WELCOME</a></li><br><br>
+                            <li><a href="#what" class="items">WHAT IS MYRECCE</a></li><br><br>
+                            <li><a href="#contact" class="items">GET IN TOUCH</a></li><br><br>
                         </ul>
                     </nav>
                 </div>
@@ -69,7 +69,8 @@
 
         <section id="welcome">
             <div class="welcomesec">
-                <h1>SECTION ONE</h1>
+                <h1>MYRECCE</h1>
+                <p>THE BEST WAY TO FIND LOCATIONS FOR ANYTHING, ANYTIME</p>
             </div>
         </section>
 
